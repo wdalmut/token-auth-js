@@ -1,0 +1,23 @@
+{
+  "name": "@wdalmut/token-auth",
+  "version": "0.0.1",
+  "description": "Token Authentication layer for @wdalmut/mini-auth",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wdalmut/token-auth-js.git"
+  },
+  "author": "Walter Dal Mut <walter.dalmut@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wdalmut/token-auth-js/issues"
+  },
+  "homepage": "https://github.com/wdalmut/token-auth-js#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-data-provider": "^2.2.0"
+  }
+}
